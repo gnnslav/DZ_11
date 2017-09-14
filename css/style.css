@@ -224,20 +224,18 @@ section{
 	z-index: 1;
 }
 
-button{
-	border: 0px;
-	margin: 5px;
-	margin-top: 10px; 
-}
-
 .details{
 	width: 78px;
 	height: 19px;
+	margin: 5px;
+	margin-top: 5px; 
 }
 
 .add{
 	width: 101px;
 	height: 19px;
+	margin: 5px;
+	margin-top: 5px; 
 }
 
 .newsale .details{
